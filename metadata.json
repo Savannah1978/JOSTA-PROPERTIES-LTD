@@ -1,0 +1,12 @@
+{
+  "name": "Josta Properties Limited",
+  "description": "Modern, professional Kenyan real estate website specializing in connecting land sellers and buyers with premium property listings.",
+  "requestFramePermissions": [
+    "geolocation"
+  ],
+  "majorCapabilities": [
+    "Firebase",
+    "Gemini AI Chatbot",
+    "Google Maps"
+  ]
+}
